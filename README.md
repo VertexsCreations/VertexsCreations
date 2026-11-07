@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
+  <img src="assets/banner.svg" alt="Vertex’s Creations" width="100%">
+</div>
 
-<!--
-**VertexsCreations/VertexsCreations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+I build **Discord bots**, **Minecraft mods**, **assistants** and **apps**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Want something built or a bot in your server?** Message `YOUR_DISCORD_HANDLE` on Discord.
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+### What I make
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/card-discord-bots.svg" alt="Discord bots"></td>
+    <td width="50%"><img src="assets/card-minecraft-mods.svg" alt="Minecraft mods"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/card-assistants.svg" alt="Assistants"></td>
+    <td width="50%"><img src="assets/card-apps.svg" alt="Apps"></td>
+  </tr>
+</table>
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+<div align="center">
+  <sub>Vertex’s Creations</sub>
+</div>
