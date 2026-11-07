@@ -6,7 +6,7 @@
 
 I build **Discord bots**, **Minecraft mods**, **assistants** and **apps**.
 
-**Want something built or a bot in your server?** Message `YOUR_DISCORD_HANDLE` on Discord.
+**Want something built or a bot in your server?** Message `vertexmaybefound` on Discord.
 
 <img src="assets/divider.svg" alt="" width="100%">
 
